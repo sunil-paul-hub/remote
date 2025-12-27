@@ -1,1 +1,1 @@
-1.0::https://raw.githubusercontent.com/sunil-paul-hub/remote/main/Updater/demo/DEMO%20SCRIPT%201.lsl
+1.1::https://raw.githubusercontent.com/sunil-paul-hub/remote/main/Updater/v1.1/DEMO%20SCRIPT%201%20-%20v1.1.lsl
